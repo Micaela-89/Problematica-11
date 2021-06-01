@@ -1,7 +1,7 @@
 # 'BECOME A QA AUTOMATION' - Week 11 - Node & Express.
 
 ## Description
-This project consist of creating a web server to handle HTTP requests and responses from the data entered in the Login and Register Forms, created during week 10 (https://github.com/Micaela-89/Semana-10)
+This project consists of creating a web server to handle HTTP requests and responses from the data entered in the Login and Register Forms, created during week 10 (https://github.com/Micaela-89/Semana-10)
 
 The objective is, once the user submits the form,to make an HTTP call with the data entered. The server will receive this call and process it. Once the call is processed, the server will send a response to the browser with the result of the processing.
 

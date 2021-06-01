@@ -38,4 +38,3 @@ The objective is, once the user submits the form,to make an HTTP call with the d
 
 ## Author
 Micaela Casais
-
